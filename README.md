@@ -40,3 +40,9 @@ Una biblioteca digital necesita ofrecer a sus usuarios:
 ## ⚙️ Instrucciones de Compilación y Ejecución
 
 1.- Para una compilación mas simple recomiendo abrir el proyecto en un programa compilador, de recomendacion Visual Studio Code.
+
+2.- Abrir desde Visual Studio Code la carpeta BibliotecaDigitalPatrones.
+
+3.- Luego correr la clase BibliotecaApp.java y utilizar el menu que aparecera en la consola.
+
+
